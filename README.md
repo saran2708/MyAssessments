@@ -6,17 +6,17 @@ Crud and search operations on employee records from UI
 3. Run the application.
 4. To access applicaion use the url "http://localhost:8180/salarymgmt"
 5. To upload csv file with employee id, employeeLogin, name and Salary, click on File upload link in home page
-6.Upload csv file and click on submit
-7.Successful page will be shown with the uploaded records in the database
-8.To view all records click "View / Filter Records" link on home page
+6. Upload csv file and click on submit
+7. Successful page will be shown with the uploaded records in the database
+8. To view all records click "View / Filter Records" link on home page
 9. All the employee records will be displayed in the next page. This page also have options to filter the records 
 based on minimum salary , maximum salary, sorting element (id or login or name or salary) and sorting order (asc/desc)
-10.once enter he criteria click on search
+10. once enter he criteria click on search
 11. Based on the criteria records will be displayed in the same page below. limit for number records is set as "3" so first page qill display only
 3 records.To view more than 3 records "Next" button can be used to navigate.
 12. To view records from previous page "Previous" button can be used in this page.
 13. To edit each employee record click on the hyperlink on employee id (in View / Filter Records page) it will show employee page with details. 
-14.Click on update button to update the changes.
+14. Click on update button to update the changes.
 15. To delete the employee records, click on hyperlink on delete button (in View / Filter Records page).
 
 Crud and search operations on employee records from Rest client
